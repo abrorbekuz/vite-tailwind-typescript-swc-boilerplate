@@ -2,6 +2,7 @@
 *.log
 
 # IDEs
+.history/*
 .vscode/*
 
 # Build directories
